@@ -6,11 +6,6 @@
         "type": "git",
         "url": "https://github.com/artport/laravel-vite-configuration.git"
     },
-    "keywords": [
-        "alpine",
-        "fetch",
-        "xhr"
-    ],
     "author": "ArtPort",
     "license": "MIT"
 }
